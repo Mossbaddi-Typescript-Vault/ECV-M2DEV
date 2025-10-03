@@ -1,6 +1,11 @@
 # Node modules
 node_modules/
 
+# correction
+correction/
+
+docs/
+
 # Build output
 dist/
 build/
